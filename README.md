@@ -24,7 +24,7 @@ Lista ordenada:
 
 1. Objeto1
 2. Objeto2
-..1. SubObjeto1
+··1. SubObjeto1
 3. Objeto3
 
 Imagen de prueba:
