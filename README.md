@@ -25,3 +25,5 @@ Lista ordenada:
 1. Objeto1
 2. Objeto2
 3. Objeto3
+
+Imagen de prueba: ![prueba](http://www.catster.com/wp-content/uploads/2017/08/A-fluffy-cat-looking-funny-surprised-or-concerned.jpg "cat")
