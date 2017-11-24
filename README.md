@@ -14,3 +14,14 @@ This is an example _of a_ **XML** without **attributes _and_ without** namespace
   <body>Don't forget me this weekend!</body>
 </note>
 ```
+Lista desordenada:
+
+- Objeto1
+- Objeto2
+- Objeto3
+
+Lista ordenada:
+
+1. Objeto1
+2. Objeto2
+3. Objeto3
