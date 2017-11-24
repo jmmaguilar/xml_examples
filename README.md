@@ -1,6 +1,6 @@
 # XML examples
 
-Examples of XML donde is LMSGI class.
+Examples of XML donde is LMSGI class. The extension of a XML file is `.xml`.
 
 ## Simple XML
 
