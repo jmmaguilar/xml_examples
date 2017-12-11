@@ -60,7 +60,7 @@ UNIDAD DIDÁCTICA 5 - RA5 (PM total:150)
 Imágenes
 --------
 
-![debian](https://www.linuxadictos.com/wp-content/uploads/Debian-OpenLogo.svg_.png "debian")
+![debian](https://d1q6f0aelx0por.cloudfront.net/product-logos/4a4d002e-a9a7-4bbe-b51d-9d780daf8f41-debian.png "debian")
 
 Debian es un sistema operativo GNU/Linux.
 > El proyecto Debian es una asociación de presonas conformada por desarrolladores y usuarios que mantiene un sistema operativo basado en software libre. El sistema se encuentra precompilado, empaquetado y en fromato deb para múltiples arquitecturas de computador y para varios núcleos.
